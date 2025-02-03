@@ -26,13 +26,13 @@ public class Shirt {
 3. Відкрийте файл `ShirtTest.java` з цього репозиторію
 4. Запустіть його (`F6` у `NetBeans` для запуску головного виконуваного файлу, `SHIFT`+`F6` - для запуску поточного файлу)
 5. Зробіть та збережіть (тека `Solution`) у файл `task1.1.png`
-![Task 1.1](Solution/task1.1.png)
+![Task 1.1](https://github.com/ppc-ntu-khpi/java-first-Glerik23/tree/main/Solution/task1.1.png)
 
 6. Замініть у файлі `Shirt.java` номер сорочки, її опис та вартість довільними значеннями
 7. Запустіть файл повторно
 8. Зробіть та збережіть у файл `task1.2.png`
-![Task 1.2](Solution/task1.2.png)
+![Task 1.2](https://github.com/ppc-ntu-khpi/java-first-Glerik23/tree/main/Solution/task1.2.png)
 
 9. На "п'ять" - те, що на "чотири", плюс, змінити код завдань таким чином, щоб:
 колір сорочки зберігався та виводився у вигляді рядка (red, blue, green, unset)
-![Task 1.3](Solution/task1.3.png)
+![Task 1.3](https://github.com/ppc-ntu-khpi/java-first-Glerik23/tree/main/Solution/task1.3.png)
