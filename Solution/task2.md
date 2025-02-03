@@ -15,13 +15,13 @@ public class Quotation {
 3. Відкрийте файл `QuotationTest.java` з цього репозиторію
 4. Запустіть його (`F6` у `NetBeans` для запуску головного виконуваного файлу, `SHIFT`+`F6` - для запуску поточного файлу)
 5. зробіть та збережіть (тека `Solution`) у файл `task2.1.png` скріншот результатів роботи програми
-![Task 2.1](https://github.com/ppc-ntu-khpi/java-first-Glerik23/tree/main/Solution/task2.1.png)
+![Task 2.1](task2.1.png)
 
 6. замініть у файлі `Quotation.java` текст довільною цитатою, знайденою в Мережі
 7. запустіть файл повторно
 8. зробіть та збережіть (тека `Solution`) у файл `task2.2.png` скріншот нових результатів роботи програми
-![Task 2.2](https://github.com/ppc-ntu-khpi/java-first-Glerik23/tree/main/Solution/task2.2.png)
+![Task 2.2](task2.2.png)
 
 9. На "п'ять" - те, що на "чотири", плюс, змінити код завдань таким чином, щоб:
 окрім цитати виводилось ім'я того, кому вона належить
-![Task 2.3](https://github.com/ppc-ntu-khpi/java-first-Glerik23/tree/main/Solution/task2.3.png)
+![Task 2.3](task2.3.png)
