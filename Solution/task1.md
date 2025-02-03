@@ -26,7 +26,7 @@ public class Shirt {
 3. Відкрийте файл `ShirtTest.java` з цього репозиторію
 4. Запустіть його (`F6` у `NetBeans` для запуску головного виконуваного файлу, `SHIFT`+`F6` - для запуску поточного файлу)
 5. Зробіть та збережіть (тека `Solution`) у файл `task1.1.png`
-![Task 1.1](https://github.com/ppc-ntu-khpi/java-first-Glerik23/tree/main/Solution/task1.1.png)
+![Task 1.1](task1.1.png)
 
 6. Замініть у файлі `Shirt.java` номер сорочки, її опис та вартість довільними значеннями
 7. Запустіть файл повторно
